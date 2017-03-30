@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LockScreen</string>
+    <string name="activity_manner_tip_activity">This is a fullscreen locker activity.\nWill be dismissed in 10 seconds.</string>
+    <string name="activity_manner_tip_window">This is a fullscreen locker window.\nWill be dismissed in 10 seconds.</string>
+</resources>
